@@ -23,5 +23,6 @@ dependencies:
   - sympy=1.4
   - pip=20.0.2
   - shap=0.34.0
+  - jupyter
   - pip:
-    - xgboost=1.0.2
+    - xgboost==1.0.2
