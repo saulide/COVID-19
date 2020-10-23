@@ -5,6 +5,14 @@ Due to significant administrative challenges in sharing de-identified clinical d
 The idea is simple: reformat your data into our proposed 10-15 views, and you'll be able to leverage all analysis code in this repository.
 We are actively seeking collaborators to expand the scope of the analysis to more patients!
 
+## GitPod Integration
+
+To allow work on the data without any checkout on you machine, there is a GitPod integration. To try it out
+
+After opening this project, run 
+
+`bash envconfig.sh`
+
 ## Organization
 
 The organization is as follows:
